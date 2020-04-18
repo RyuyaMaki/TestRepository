@@ -1,0 +1,8 @@
+#追加しないフォルダ名
+IgnoreFolder/
+
+
+IgnoreText.txt
+
+#追加しない拡張子
+*.png
